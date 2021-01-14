@@ -1,8 +1,12 @@
 # Lane_finding_autonomous_cars
 
-Platform Used :-   Python
+Load the images and videos from database, then implement image pre-processing steps and computer vision methods to detect the road lines which are highlighted red and augmented on the input image and videos.
 
-Libraries Used :-  Numpy, cv2(OPEN CV), Matplotlib, os
+LANGUAGES USED :-   Python
+
+PLATFORM USED :-   JUPYTER NOTEBOOK, MS WORD
+
+LIBRARIES USED :-  Numpy, cv2(OPEN CV), Matplotlib, os
 
 Steps:-  
 1) Make directories data and out
